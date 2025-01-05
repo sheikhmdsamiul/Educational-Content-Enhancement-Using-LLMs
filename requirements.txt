@@ -1,0 +1,13 @@
+streamlit
+flashrank
+PyMuPDF
+langchain
+langchain_community
+langchain_core
+langchain_groq
+spacy
+faiss-cpu
+python-dotenv
+pypdf
+gtts
+
